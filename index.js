@@ -24,11 +24,10 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
-
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
-
+const[moo ,neigh,meh,oink,]
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
